@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Init post"
+date:   2024-08-03 22:47:10 +0300
+categories: jekyll update
+---
+
+This is a blog page that contains technical tutorials, related to HW/SW co-design of solutions for cloud computing.
+
+
+Jekyll-related notes:  
+[jekyll-docs](https://jekyllrb.com/docs/home)
+[jekyll-gh](https://github.com/jekyll/jekyll)
+[jekyll-talk](https://talk.jekyllrb.com/)
